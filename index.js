@@ -17,10 +17,6 @@ class GoogleFontInliner {
       });
   }
 
-  // TODO: error handling
-  // TODO: es6 - use babel or write in es5?
-  //   > arrow functions
-  // TODO: side effect?
   style() {
     return this.fetchCss().then(css => {
       const fontEndpoints = css.match(/https:\/\/[^)]+/g);
