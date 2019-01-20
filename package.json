@@ -1,0 +1,28 @@
+{
+  "name": "google-font-inliner",
+  "version": "0.1.0",
+  "description": "Utility for embedding JSX-friendly inline styles for Google Fonts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tohanian/google-font-inliner.git"
+  },
+  "keywords": [
+    "['google",
+    "fonts'",
+    "'inline'",
+    "'fonts'",
+    "'svg'",
+    "'jsx'",
+    "'react']"
+  ],
+  "author": "Todd Ohanian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tohanian/google-font-inliner/issues"
+  },
+  "homepage": "https://github.com/tohanian/google-font-inliner#readme"
+}
