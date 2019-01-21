@@ -24,10 +24,10 @@ Alternately, the class accepts a `text` argument to specify which characters to 
 fontInliner = new GoogleFontInliner('Charm', 'example text');
 ```
 
-## `.style()`
+### `.style()`
 
 Returns a promise that resolves with the inlined CSS for the initialized font family.
 
-## `.fetchCss()`
+### `.fetchCss()`
 
 Returns a promise that resolves with the response of the Google font API
